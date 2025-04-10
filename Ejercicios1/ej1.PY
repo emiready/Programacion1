@@ -1,5 +1,6 @@
 # 1) Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”
-#print ("Hola Mundo")
+#print ("Hola Mundo") 
+
 
 #2) Crear un programa que pida al usuario su nombre e imprima por pantalla un saludo usando el nombre ingresado. Ej: si el usuario ingresa “Marcos”, el programa imprimira “Hola Marcos!”.
 
