@@ -6,7 +6,7 @@ numero2 = int(input("Ingrese el segundo numero: "))
 
 acum = 0 
 
-for c in range (numero1 + 1 , numero2  ):
+for c in range (numero1 + 1 , numero2 ):
     acum += c
 
 print ("La suma de todos los numeros es: ", acum)
